@@ -19,9 +19,8 @@ The following libraries are used in this project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Project-Module2-Email-Classifier.git
-   cd Project-Module2-Email-Classifier
-   ```
+   git clone https://github.com/Duy1230/Project-Module2-EmailClassification.git
+   cd Project-Module2-EmailClassification
 2. Install the required libraries:
     ```bash
     pip install -r requirements.txt
